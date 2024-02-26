@@ -1,0 +1,15 @@
+C:\Projetos\pess\educ\ACAD\PSCOM\PSCOM02\bin\Debug\net8.0\PSCOM02.exe
+C:\Projetos\pess\educ\ACAD\PSCOM\PSCOM02\bin\Debug\net8.0\PSCOM02.deps.json
+C:\Projetos\pess\educ\ACAD\PSCOM\PSCOM02\bin\Debug\net8.0\PSCOM02.runtimeconfig.json
+C:\Projetos\pess\educ\ACAD\PSCOM\PSCOM02\bin\Debug\net8.0\PSCOM02.dll
+C:\Projetos\pess\educ\ACAD\PSCOM\PSCOM02\bin\Debug\net8.0\PSCOM02.pdb
+C:\Projetos\pess\educ\ACAD\PSCOM\PSCOM02\obj\Debug\net8.0\PSCOM02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\pess\educ\ACAD\PSCOM\PSCOM02\obj\Debug\net8.0\PSCOM02.AssemblyInfoInputs.cache
+C:\Projetos\pess\educ\ACAD\PSCOM\PSCOM02\obj\Debug\net8.0\PSCOM02.AssemblyInfo.cs
+C:\Projetos\pess\educ\ACAD\PSCOM\PSCOM02\obj\Debug\net8.0\PSCOM02.csproj.CoreCompileInputs.cache
+C:\Projetos\pess\educ\ACAD\PSCOM\PSCOM02\obj\Debug\net8.0\PSCOM02.sourcelink.json
+C:\Projetos\pess\educ\ACAD\PSCOM\PSCOM02\obj\Debug\net8.0\PSCOM02.dll
+C:\Projetos\pess\educ\ACAD\PSCOM\PSCOM02\obj\Debug\net8.0\refint\PSCOM02.dll
+C:\Projetos\pess\educ\ACAD\PSCOM\PSCOM02\obj\Debug\net8.0\PSCOM02.pdb
+C:\Projetos\pess\educ\ACAD\PSCOM\PSCOM02\obj\Debug\net8.0\PSCOM02.genruntimeconfig.cache
+C:\Projetos\pess\educ\ACAD\PSCOM\PSCOM02\obj\Debug\net8.0\ref\PSCOM02.dll
