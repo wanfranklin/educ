@@ -1,0 +1,15 @@
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02\bin\Debug\net8.0\PROJSD02.exe
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02\bin\Debug\net8.0\PROJSD02.deps.json
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02\bin\Debug\net8.0\PROJSD02.runtimeconfig.json
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02\bin\Debug\net8.0\PROJSD02.dll
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02\bin\Debug\net8.0\PROJSD02.pdb
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02\obj\Debug\net8.0\PROJSD02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02\obj\Debug\net8.0\PROJSD02.AssemblyInfoInputs.cache
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02\obj\Debug\net8.0\PROJSD02.AssemblyInfo.cs
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02\obj\Debug\net8.0\PROJSD02.csproj.CoreCompileInputs.cache
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02\obj\Debug\net8.0\PROJSD02.sourcelink.json
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02\obj\Debug\net8.0\PROJSD02.dll
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02\obj\Debug\net8.0\refint\PROJSD02.dll
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02\obj\Debug\net8.0\PROJSD02.pdb
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02\obj\Debug\net8.0\PROJSD02.genruntimeconfig.cache
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02\obj\Debug\net8.0\ref\PROJSD02.dll
