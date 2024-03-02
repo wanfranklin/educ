@@ -1,0 +1,15 @@
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02.2_FTP\bin\Debug\net8.0\PROJSD02.2_FTP.exe
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02.2_FTP\bin\Debug\net8.0\PROJSD02.2_FTP.deps.json
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02.2_FTP\bin\Debug\net8.0\PROJSD02.2_FTP.runtimeconfig.json
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02.2_FTP\bin\Debug\net8.0\PROJSD02.2_FTP.dll
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02.2_FTP\bin\Debug\net8.0\PROJSD02.2_FTP.pdb
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02.2_FTP\obj\Debug\net8.0\PROJSD02.2_FTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02.2_FTP\obj\Debug\net8.0\PROJSD02.2_FTP.AssemblyInfoInputs.cache
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02.2_FTP\obj\Debug\net8.0\PROJSD02.2_FTP.AssemblyInfo.cs
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02.2_FTP\obj\Debug\net8.0\PROJSD02.2_FTP.csproj.CoreCompileInputs.cache
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02.2_FTP\obj\Debug\net8.0\PROJSD02.2_FTP.sourcelink.json
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02.2_FTP\obj\Debug\net8.0\PROJSD02.2_FTP.dll
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02.2_FTP\obj\Debug\net8.0\refint\PROJSD02.2_FTP.dll
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02.2_FTP\obj\Debug\net8.0\PROJSD02.2_FTP.pdb
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02.2_FTP\obj\Debug\net8.0\PROJSD02.2_FTP.genruntimeconfig.cache
+C:\Projetos\pess\educ\ACAD\SISD\PROJSD02.2_FTP\obj\Debug\net8.0\ref\PROJSD02.2_FTP.dll
