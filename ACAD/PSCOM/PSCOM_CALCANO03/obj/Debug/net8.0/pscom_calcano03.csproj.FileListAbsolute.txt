@@ -1,0 +1,15 @@
+C:\Projetos\pess\educ\ACAD\pscom\pscom_calcano03\bin\Debug\net8.0\pscom_calcano03.exe
+C:\Projetos\pess\educ\ACAD\pscom\pscom_calcano03\bin\Debug\net8.0\pscom_calcano03.deps.json
+C:\Projetos\pess\educ\ACAD\pscom\pscom_calcano03\bin\Debug\net8.0\pscom_calcano03.runtimeconfig.json
+C:\Projetos\pess\educ\ACAD\pscom\pscom_calcano03\bin\Debug\net8.0\pscom_calcano03.dll
+C:\Projetos\pess\educ\ACAD\pscom\pscom_calcano03\bin\Debug\net8.0\pscom_calcano03.pdb
+C:\Projetos\pess\educ\ACAD\pscom\pscom_calcano03\obj\Debug\net8.0\pscom_calcano03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\pess\educ\ACAD\pscom\pscom_calcano03\obj\Debug\net8.0\pscom_calcano03.AssemblyInfoInputs.cache
+C:\Projetos\pess\educ\ACAD\pscom\pscom_calcano03\obj\Debug\net8.0\pscom_calcano03.AssemblyInfo.cs
+C:\Projetos\pess\educ\ACAD\pscom\pscom_calcano03\obj\Debug\net8.0\pscom_calcano03.csproj.CoreCompileInputs.cache
+C:\Projetos\pess\educ\ACAD\pscom\pscom_calcano03\obj\Debug\net8.0\pscom_calcano03.sourcelink.json
+C:\Projetos\pess\educ\ACAD\pscom\pscom_calcano03\obj\Debug\net8.0\pscom_calcano03.dll
+C:\Projetos\pess\educ\ACAD\pscom\pscom_calcano03\obj\Debug\net8.0\refint\pscom_calcano03.dll
+C:\Projetos\pess\educ\ACAD\pscom\pscom_calcano03\obj\Debug\net8.0\pscom_calcano03.pdb
+C:\Projetos\pess\educ\ACAD\pscom\pscom_calcano03\obj\Debug\net8.0\pscom_calcano03.genruntimeconfig.cache
+C:\Projetos\pess\educ\ACAD\pscom\pscom_calcano03\obj\Debug\net8.0\ref\pscom_calcano03.dll

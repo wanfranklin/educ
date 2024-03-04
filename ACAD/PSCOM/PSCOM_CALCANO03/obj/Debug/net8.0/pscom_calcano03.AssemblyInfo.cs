@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PROJSD01.1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("pscom_calcano03")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5220ec42d13ecaf8715e33cb71c07c75f8bacaf")]
-[assembly: System.Reflection.AssemblyProductAttribute("PROJSD01.1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PROJSD01.1")]
+[assembly: System.Reflection.AssemblyProductAttribute("pscom_calcano03")]
+[assembly: System.Reflection.AssemblyTitleAttribute("pscom_calcano03")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
