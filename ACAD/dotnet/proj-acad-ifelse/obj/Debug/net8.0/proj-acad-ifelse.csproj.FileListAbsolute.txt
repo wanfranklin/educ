@@ -1,0 +1,15 @@
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse\obj\Debug\net8.0\proj-acad-ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse\obj\Debug\net8.0\proj-acad-ifelse.AssemblyInfoInputs.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse\obj\Debug\net8.0\proj-acad-ifelse.AssemblyInfo.cs
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse\obj\Debug\net8.0\proj-acad-ifelse.csproj.CoreCompileInputs.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse\obj\Debug\net8.0\proj-acad-ifelse.sourcelink.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse\bin\Debug\net8.0\proj-acad-ifelse.exe
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse\bin\Debug\net8.0\proj-acad-ifelse.deps.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse\bin\Debug\net8.0\proj-acad-ifelse.runtimeconfig.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse\bin\Debug\net8.0\proj-acad-ifelse.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse\bin\Debug\net8.0\proj-acad-ifelse.pdb
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse\obj\Debug\net8.0\proj-acad-ifelse.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse\obj\Debug\net8.0\refint\proj-acad-ifelse.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse\obj\Debug\net8.0\proj-acad-ifelse.pdb
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse\obj\Debug\net8.0\proj-acad-ifelse.genruntimeconfig.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse\obj\Debug\net8.0\ref\proj-acad-ifelse.dll
