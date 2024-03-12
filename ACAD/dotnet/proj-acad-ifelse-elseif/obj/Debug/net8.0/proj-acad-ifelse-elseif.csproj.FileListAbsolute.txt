@@ -1,0 +1,15 @@
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse-elseif\bin\Debug\net8.0\proj-acad-ifelse-elseif.exe
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse-elseif\bin\Debug\net8.0\proj-acad-ifelse-elseif.deps.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse-elseif\bin\Debug\net8.0\proj-acad-ifelse-elseif.runtimeconfig.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse-elseif\bin\Debug\net8.0\proj-acad-ifelse-elseif.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse-elseif\bin\Debug\net8.0\proj-acad-ifelse-elseif.pdb
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse-elseif\obj\Debug\net8.0\proj-acad-ifelse-elseif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse-elseif\obj\Debug\net8.0\proj-acad-ifelse-elseif.AssemblyInfoInputs.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse-elseif\obj\Debug\net8.0\proj-acad-ifelse-elseif.AssemblyInfo.cs
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse-elseif\obj\Debug\net8.0\proj-acad-ifelse-elseif.csproj.CoreCompileInputs.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse-elseif\obj\Debug\net8.0\proj-acad-ifelse-elseif.sourcelink.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse-elseif\obj\Debug\net8.0\proj-acad-ifelse-elseif.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse-elseif\obj\Debug\net8.0\refint\proj-acad-ifelse-elseif.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse-elseif\obj\Debug\net8.0\proj-acad-ifelse-elseif.pdb
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse-elseif\obj\Debug\net8.0\proj-acad-ifelse-elseif.genruntimeconfig.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-ifelse-elseif\obj\Debug\net8.0\ref\proj-acad-ifelse-elseif.dll
