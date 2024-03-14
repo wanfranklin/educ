@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("proj-acad-ifelse-elseif")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6150b63fdd9d07aab5b1373c795132783be4c0d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a08dcf8b555e47ec5a028d2a43aebd9de3c2561")]
 [assembly: System.Reflection.AssemblyProductAttribute("proj-acad-ifelse-elseif")]
 [assembly: System.Reflection.AssemblyTitleAttribute("proj-acad-ifelse-elseif")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
