@@ -1,0 +1,15 @@
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-process\bin\Debug\net8.0\proj-acad-process.exe
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-process\bin\Debug\net8.0\proj-acad-process.deps.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-process\bin\Debug\net8.0\proj-acad-process.runtimeconfig.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-process\bin\Debug\net8.0\proj-acad-process.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-process\bin\Debug\net8.0\proj-acad-process.pdb
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-process\obj\Debug\net8.0\proj-acad-process.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-process\obj\Debug\net8.0\proj-acad-process.AssemblyInfoInputs.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-process\obj\Debug\net8.0\proj-acad-process.AssemblyInfo.cs
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-process\obj\Debug\net8.0\proj-acad-process.csproj.CoreCompileInputs.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-process\obj\Debug\net8.0\proj-acad-process.sourcelink.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-process\obj\Debug\net8.0\proj-acad-process.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-process\obj\Debug\net8.0\refint\proj-acad-process.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-process\obj\Debug\net8.0\proj-acad-process.pdb
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-process\obj\Debug\net8.0\proj-acad-process.genruntimeconfig.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-process\obj\Debug\net8.0\ref\proj-acad-process.dll

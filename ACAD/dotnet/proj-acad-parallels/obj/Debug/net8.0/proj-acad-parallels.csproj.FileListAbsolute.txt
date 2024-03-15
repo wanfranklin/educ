@@ -1,0 +1,15 @@
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-parallels\bin\Debug\net8.0\proj-acad-parallels.exe
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-parallels\bin\Debug\net8.0\proj-acad-parallels.deps.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-parallels\bin\Debug\net8.0\proj-acad-parallels.runtimeconfig.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-parallels\bin\Debug\net8.0\proj-acad-parallels.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-parallels\bin\Debug\net8.0\proj-acad-parallels.pdb
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-parallels\obj\Debug\net8.0\proj-acad-parallels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-parallels\obj\Debug\net8.0\proj-acad-parallels.AssemblyInfoInputs.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-parallels\obj\Debug\net8.0\proj-acad-parallels.AssemblyInfo.cs
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-parallels\obj\Debug\net8.0\proj-acad-parallels.csproj.CoreCompileInputs.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-parallels\obj\Debug\net8.0\proj-acad-parallels.sourcelink.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-parallels\obj\Debug\net8.0\proj-acad-parallels.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-parallels\obj\Debug\net8.0\refint\proj-acad-parallels.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-parallels\obj\Debug\net8.0\proj-acad-parallels.pdb
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-parallels\obj\Debug\net8.0\proj-acad-parallels.genruntimeconfig.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-parallels\obj\Debug\net8.0\ref\proj-acad-parallels.dll
