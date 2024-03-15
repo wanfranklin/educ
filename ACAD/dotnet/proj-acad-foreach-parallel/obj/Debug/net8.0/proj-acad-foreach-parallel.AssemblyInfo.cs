@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("proj-acad-parallels")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("proj-acad-foreach-parallel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6b61e88c93a455bc112cd0bd95e74be2291b4e5")]
-[assembly: System.Reflection.AssemblyProductAttribute("proj-acad-parallels")]
-[assembly: System.Reflection.AssemblyTitleAttribute("proj-acad-parallels")]
+[assembly: System.Reflection.AssemblyProductAttribute("proj-acad-foreach-parallel")]
+[assembly: System.Reflection.AssemblyTitleAttribute("proj-acad-foreach-parallel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

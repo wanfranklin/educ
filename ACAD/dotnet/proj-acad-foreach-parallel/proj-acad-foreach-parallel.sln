@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "proj-acad-foreach-parallel", "proj-acad-foreach-parallel.csproj", "{D3E1ED81-7589-4C64-9323-4DEFB00CC9DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3E1ED81-7589-4C64-9323-4DEFB00CC9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E1ED81-7589-4C64-9323-4DEFB00CC9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E1ED81-7589-4C64-9323-4DEFB00CC9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E1ED81-7589-4C64-9323-4DEFB00CC9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ADAF508-F24E-472C-984E-D9C0E4BE06A3}
+	EndGlobalSection
+EndGlobal

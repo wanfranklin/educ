@@ -1,0 +1,15 @@
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-foreach-parallel\bin\Debug\net8.0\proj-acad-foreach-parallel.exe
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-foreach-parallel\bin\Debug\net8.0\proj-acad-foreach-parallel.deps.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-foreach-parallel\bin\Debug\net8.0\proj-acad-foreach-parallel.runtimeconfig.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-foreach-parallel\bin\Debug\net8.0\proj-acad-foreach-parallel.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-foreach-parallel\bin\Debug\net8.0\proj-acad-foreach-parallel.pdb
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-foreach-parallel\obj\Debug\net8.0\proj-acad-foreach-parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-foreach-parallel\obj\Debug\net8.0\proj-acad-foreach-parallel.AssemblyInfoInputs.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-foreach-parallel\obj\Debug\net8.0\proj-acad-foreach-parallel.AssemblyInfo.cs
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-foreach-parallel\obj\Debug\net8.0\proj-acad-foreach-parallel.csproj.CoreCompileInputs.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-foreach-parallel\obj\Debug\net8.0\proj-acad-foreach-parallel.sourcelink.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-foreach-parallel\obj\Debug\net8.0\proj-acad-foreach-parallel.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-foreach-parallel\obj\Debug\net8.0\refint\proj-acad-foreach-parallel.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-foreach-parallel\obj\Debug\net8.0\proj-acad-foreach-parallel.pdb
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-foreach-parallel\obj\Debug\net8.0\proj-acad-foreach-parallel.genruntimeconfig.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-foreach-parallel\obj\Debug\net8.0\ref\proj-acad-foreach-parallel.dll
