@@ -1,0 +1,15 @@
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-matrix-parallels\bin\Debug\net8.0\proj-acad-matrix-parallels.exe
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-matrix-parallels\bin\Debug\net8.0\proj-acad-matrix-parallels.deps.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-matrix-parallels\bin\Debug\net8.0\proj-acad-matrix-parallels.runtimeconfig.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-matrix-parallels\bin\Debug\net8.0\proj-acad-matrix-parallels.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-matrix-parallels\bin\Debug\net8.0\proj-acad-matrix-parallels.pdb
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-matrix-parallels\obj\Debug\net8.0\proj-acad-matrix-parallels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-matrix-parallels\obj\Debug\net8.0\proj-acad-matrix-parallels.AssemblyInfoInputs.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-matrix-parallels\obj\Debug\net8.0\proj-acad-matrix-parallels.AssemblyInfo.cs
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-matrix-parallels\obj\Debug\net8.0\proj-acad-matrix-parallels.csproj.CoreCompileInputs.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-matrix-parallels\obj\Debug\net8.0\proj-acad-matrix-parallels.sourcelink.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-matrix-parallels\obj\Debug\net8.0\proj-acad-matrix-parallels.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-matrix-parallels\obj\Debug\net8.0\refint\proj-acad-matrix-parallels.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-matrix-parallels\obj\Debug\net8.0\proj-acad-matrix-parallels.pdb
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-matrix-parallels\obj\Debug\net8.0\proj-acad-matrix-parallels.genruntimeconfig.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-matrix-parallels\obj\Debug\net8.0\ref\proj-acad-matrix-parallels.dll
