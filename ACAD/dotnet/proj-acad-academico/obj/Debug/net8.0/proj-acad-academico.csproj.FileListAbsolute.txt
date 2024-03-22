@@ -1,0 +1,15 @@
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-academico\bin\Debug\net8.0\proj-acad-academico.exe
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-academico\bin\Debug\net8.0\proj-acad-academico.deps.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-academico\bin\Debug\net8.0\proj-acad-academico.runtimeconfig.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-academico\bin\Debug\net8.0\proj-acad-academico.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-academico\bin\Debug\net8.0\proj-acad-academico.pdb
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-academico\obj\Debug\net8.0\proj-acad-academico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-academico\obj\Debug\net8.0\proj-acad-academico.AssemblyInfoInputs.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-academico\obj\Debug\net8.0\proj-acad-academico.AssemblyInfo.cs
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-academico\obj\Debug\net8.0\proj-acad-academico.csproj.CoreCompileInputs.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-academico\obj\Debug\net8.0\proj-acad-academico.sourcelink.json
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-academico\obj\Debug\net8.0\proj-acad-academico.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-academico\obj\Debug\net8.0\refint\proj-acad-academico.dll
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-academico\obj\Debug\net8.0\proj-acad-academico.pdb
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-academico\obj\Debug\net8.0\proj-acad-academico.genruntimeconfig.cache
+C:\Projetos\pess\educ\ACAD\dotnet\proj-acad-academico\obj\Debug\net8.0\ref\proj-acad-academico.dll

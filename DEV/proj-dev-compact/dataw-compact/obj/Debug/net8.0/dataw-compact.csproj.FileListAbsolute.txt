@@ -1,0 +1,15 @@
+C:\Projetos\pess\educ\DEV\proj-dev-compact\dataw-compact\bin\Debug\net8.0\dataw-compact.exe
+C:\Projetos\pess\educ\DEV\proj-dev-compact\dataw-compact\bin\Debug\net8.0\dataw-compact.deps.json
+C:\Projetos\pess\educ\DEV\proj-dev-compact\dataw-compact\bin\Debug\net8.0\dataw-compact.runtimeconfig.json
+C:\Projetos\pess\educ\DEV\proj-dev-compact\dataw-compact\bin\Debug\net8.0\dataw-compact.dll
+C:\Projetos\pess\educ\DEV\proj-dev-compact\dataw-compact\bin\Debug\net8.0\dataw-compact.pdb
+C:\Projetos\pess\educ\DEV\proj-dev-compact\dataw-compact\obj\Debug\net8.0\dataw-compact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\pess\educ\DEV\proj-dev-compact\dataw-compact\obj\Debug\net8.0\dataw-compact.AssemblyInfoInputs.cache
+C:\Projetos\pess\educ\DEV\proj-dev-compact\dataw-compact\obj\Debug\net8.0\dataw-compact.AssemblyInfo.cs
+C:\Projetos\pess\educ\DEV\proj-dev-compact\dataw-compact\obj\Debug\net8.0\dataw-compact.csproj.CoreCompileInputs.cache
+C:\Projetos\pess\educ\DEV\proj-dev-compact\dataw-compact\obj\Debug\net8.0\dataw-compact.sourcelink.json
+C:\Projetos\pess\educ\DEV\proj-dev-compact\dataw-compact\obj\Debug\net8.0\dataw-compact.dll
+C:\Projetos\pess\educ\DEV\proj-dev-compact\dataw-compact\obj\Debug\net8.0\refint\dataw-compact.dll
+C:\Projetos\pess\educ\DEV\proj-dev-compact\dataw-compact\obj\Debug\net8.0\dataw-compact.pdb
+C:\Projetos\pess\educ\DEV\proj-dev-compact\dataw-compact\obj\Debug\net8.0\dataw-compact.genruntimeconfig.cache
+C:\Projetos\pess\educ\DEV\proj-dev-compact\dataw-compact\obj\Debug\net8.0\ref\dataw-compact.dll
