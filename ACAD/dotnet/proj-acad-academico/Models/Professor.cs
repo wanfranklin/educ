@@ -15,7 +15,7 @@ public class Professor
 
     public void ExibirInformacoes()
     {
-        Console.WriteLine($"Professor: {Nome} - Idade \"{Idade}\"");
+        Console.WriteLine($"Professor: {Nome} - Idade {Idade}");
         Console.WriteLine($"Idade: {Idade}");
         Console.WriteLine($"Disciplina: {Disciplina}");
     }

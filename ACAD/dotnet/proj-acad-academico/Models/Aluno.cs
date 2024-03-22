@@ -14,11 +14,9 @@ public class Aluno(
     public long Matricula { get; set; } = matricula;
 
     public void ExibirInformacoes()
-    {
-        Console.ForegroundColor = ConsoleColor.Green;
+    {   
         Console.WriteLine($"Nome: {Nome}, Idade: {Idade}, "
         + $"Curso: {Curso}, Matrícula: {Matricula} ");
-        Console.ResetColor();
     }
 
 }
