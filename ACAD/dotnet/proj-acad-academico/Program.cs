@@ -1,9 +1,18 @@
 ﻿// https://github.com/wanfranklin/educ
 
+using Models;
+
 static class Program
 {
     static void Main(string[] args)
     {
+        Professor professor = new Professor(123456789, "João da Silva", 20, "Programação de Soluções Computacionais");
+        Professor professor2 = new Professor(15345354, "Maria da Silva", 0,"Programação de Soluções Computacionais");
+
+        List<Professor> listaProfessores = new List<Professor>();
+        listaProfessores.Add(professor);
+        listaProfessores.Add(professor2);
+
         bool showMenu = true;
 
         while (showMenu)
