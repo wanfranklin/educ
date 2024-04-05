@@ -1,5 +1,6 @@
 ﻿try
 {
+    
     #region Bloco Principal
 
     Console.ForegroundColor = ConsoleColor.Green;
@@ -44,6 +45,6 @@
 catch (Exception ex)
 {
     Console.ForegroundColor = ConsoleColor.Red;
-    Console.WriteLine("Erro: " + ex.Message);
+    Console.WriteLine($"Erro: {ex.Message} - {DateTime.Now.ToString("dd/MM/yyyyy HH:mm:ss")}");
     Console.ResetColor();
 }
