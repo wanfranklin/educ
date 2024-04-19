@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("proj-viacep-planilha-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efb69dd88f8249a58d69a5db45d89103fb1f3bf4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+961b21637be5aba619d57c608b5c4bb4a732f4e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("proj-viacep-planilha-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("proj-viacep-planilha-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
